@@ -46,3 +46,4 @@ python manage.py runserver
 
 ## 许可证
 AGPLv3，`apps/charts`目录以及`templates/stock_*.html`除外，因为不是我写的
+# django2
